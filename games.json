@@ -1,0 +1,12 @@
+[
+  {
+    "id": "neon-runner",
+    "title": "NEON RUNNER",
+    "category": "Ação",
+    "description": "Uma pequena demonstração arcade: desvie dos obstáculos, sobreviva o máximo possível e tente bater seu recorde. Primeiro jogo de demonstração da ACS007 GAMES.",
+    "url": "games/demo-neon-runner/index.html",
+    "cover": "",
+    "status": "Disponível",
+    "controls": "Setas esquerda/direita ou A/D para mover; espaço para reiniciar."
+  }
+]
